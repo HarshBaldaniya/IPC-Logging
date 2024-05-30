@@ -1,0 +1,9 @@
+OrderService: New order received
+
+PaymentService: Payment initiated
+PaymentService: Payment processed
+PaymentService: Payment completed
+
+OrderService: Order processing started
+OrderService: Order processing completed
+
